@@ -45,9 +45,10 @@
 
 ## Output
 
+### Name:Tamizhselvan B
+### Register Number: 212223230225
 
-### Name:
-### Register Number: 
+![Empd 2](https://github.com/user-attachments/assets/7303f53b-565a-4422-a555-8c3063e16586)
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
